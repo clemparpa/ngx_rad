@@ -9,6 +9,14 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "ngx-rad": [
+        "./dist/ngx-rad"
+      ],
+      "ngx-radix-ui": [
+        "./dist/ngx-radix-ui"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
